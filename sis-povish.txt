@@ -1,6 +1,4 @@
 imgui.NewLine()
-imgui.Separator()
-imgui.NewLine()
 imgui.CenterTextColoredRGB("{6666FF}Стажер [1] - Инструктор [2]")
 imgui.NewLine()
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{6666FF}• {FFFFFF}Прохождение тестирования.")
@@ -42,6 +40,4 @@ imgui.CenterTextColoredRGB("{6666FF}Управляющий [6] - Замести�
 imgui.NewLine()
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{6666FF}• {FFFFFF}Провести 70 экзаменов")
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{6666FF}• {FFFFFF}Выдать 40 лицензий")
-imgui.NewLine()
-imgui.Separator()
 imgui.NewLine()
