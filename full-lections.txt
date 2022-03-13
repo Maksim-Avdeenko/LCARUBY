@@ -20,7 +20,6 @@ imgui.CreatePaddingX(20); imgui.TextColoredRGB("{6666FF}• {FFFFFF}Теперь
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{6666FF}• {FFFFFF}Сотрудников с должностью Менеджер может быть только десять.")
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{6666FF}• {FFFFFF}Не забывайте, если накопилась очередь, то Вы должны работать, иначе: Выговор в дело.")
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{6666FF}• {FFFFFF}Всем спасибо за внимание!")
-imgui.CreatePaddingX(20); imgui.TextColoredRGB("{6666FF}• {FFFFFF}Менеджера ")
 imgui.NewLine()
 imgui.Separator()
 imgui.NewLine()
