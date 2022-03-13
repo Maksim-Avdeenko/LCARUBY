@@ -3,7 +3,7 @@ imgui.CenterTextColoredRGB("{6666FF}Директор Лицезионного Ц
 imgui.NewLine()
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{6666FF}• {FFFFFF}Crystal Kingston")
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{6666FF}• {FFFFFF}ВКонтакте: vk.com/husku72")
-imgui.CreatePaddingX(20); imgui.TextColoredRGB("{6666FF}• {FFFFFF}Discord: Aurelio_Noviello#7588")
+imgui.CreatePaddingX(20); imgui.TextColoredRGB("{6666FF}• {FFFFFF}Discord: *#****")
 imgui.NewLine()
 imgui.Separator()
 imgui.NewLine()
