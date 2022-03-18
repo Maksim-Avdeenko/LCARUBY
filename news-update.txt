@@ -1,6 +1,7 @@
 imgui.NewLine()
 imgui.CenterTextColoredRGB("{6666FF}Версия 0.1")
 imgui.NewLine()
+imgui.CreatePaddingX(20); imgui.TextColoredRGB("{6666FF}• {FFFFFF}Добавлено меню взаимодействий с игроком")
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{6666FF}• {FFFFFF}Добавлен раздел для руководителей")
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{6666FF}• {FFFFFF}Добавлен раздел руководства (Следящие/лидер)")
 imgui.CreatePaddingX(20); imgui.TextColoredRGB("{6666FF}• {FFFFFF}Добавлена информационная панель")
